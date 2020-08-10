@@ -4,7 +4,7 @@
 
 #### Quick view
 
-<div style='display: flex; justify-content: space-around;'>
+<div style='display: flex; justify-content: space-around; width: 100%'>
   <a href="https://github.com/mbruchetpro/convoychat">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbruchetpro&layout=compact&show_icons=true&theme=tokyonight" />
   </a>
@@ -12,8 +12,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=mbruchetpro&show_icons=true&theme=tokyonight" />
   </a>
 </div>
-
----
 
 #### Languages
 
