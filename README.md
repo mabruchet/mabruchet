@@ -13,11 +13,13 @@
 
 #### Languages
 
+<span>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img height="20" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
+</span>
 
 #### Infos
 
@@ -32,7 +34,7 @@
 
 <div style="display: flex; justify-content: space-around;">
 
-  <img align="left" width="150" height="150" src="https://avatars2.githubusercontent.com/u/36850920?s=400&u=c9b4d221d631d1787871eafc58e0555fe622b175&v=4"/>
+  <img width="150" height="150" src="https://avatars2.githubusercontent.com/u/36850920?s=400&u=c9b4d221d631d1787871eafc58e0555fe622b175&v=4"/>
 
 <div>
   <h4>Find me around the web 🌎</h4>
