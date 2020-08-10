@@ -32,20 +32,15 @@
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 
-<div style="display: flex; justify-content: space-around;">
 
+<div align="center" style="margin-top: 36px">
   <img width="150" height="150" src="https://avatars2.githubusercontent.com/u/36850920?s=400&u=c9b4d221d631d1787871eafc58e0555fe622b175&v=4"/>
 
-<div>
   <h4>Find me around the web 🌎</h4>
-<div style='display: flex; justify-content: space-around'>
   <a href="https://www.linkedin.com/in/maxime-bruchet-470537166/">
     <img height="20" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
   </a>
   <a>
     <img alt="Twitter" width="20" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
   </a>
-</div>
-<div>
-
 </div>
