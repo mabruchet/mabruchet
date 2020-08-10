@@ -4,24 +4,20 @@
 
 #### Quick view
 
-<div style="display: flex; justify-content: space-around; width: 100%;">
 <a href="https://github.com/mbruchetpro/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbruchetpro&layout=compact&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbruchetpro&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/mbruchetpro/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mbruchetpro&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mbruchetpro&show_icons=true&theme=tokyonight" />
 </a>
-</div>
 
 #### Languages
 
-<span>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img height="20" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
-</span>
 
 #### Infos
 
@@ -45,7 +41,7 @@
     <img height="20" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"/>
   </a>
   <a>
-    <img align="left" alt="Twitter" width="20" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
+    <img alt="Twitter" width="20" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
   </a>
 </div>
 <div>
