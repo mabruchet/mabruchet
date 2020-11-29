@@ -4,11 +4,11 @@
 
 #### Quick view
 
-<a href="https://github.com/mbruchetpro/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbruchetpro&layout=compact&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/mabruchet/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabruchet&layout=compact&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/mbruchetpro/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbruchetpro&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/mabruchet/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mabruchet&show_icons=true&theme=tokyonight" />
 </a>
 
 #### Languages
